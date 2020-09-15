@@ -1,0 +1,7 @@
+C:\Users\Vladi\OneDrive\Рабочий стол\Звіт 5 семестр\Прог інж\Лаба 1\Приклад3\Фібоначчі\Фібоначчі\bin\Debug\Фібоначчі.exe.config
+C:\Users\Vladi\OneDrive\Рабочий стол\Звіт 5 семестр\Прог інж\Лаба 1\Приклад3\Фібоначчі\Фібоначчі\bin\Debug\Фібоначчі.exe
+C:\Users\Vladi\OneDrive\Рабочий стол\Звіт 5 семестр\Прог інж\Лаба 1\Приклад3\Фібоначчі\Фібоначчі\bin\Debug\Фібоначчі.pdb
+C:\Users\Vladi\OneDrive\Рабочий стол\Звіт 5 семестр\Прог інж\Лаба 1\Приклад3\Фібоначчі\Фібоначчі\obj\Debug\Фібоначчі.csprojAssemblyReference.cache
+C:\Users\Vladi\OneDrive\Рабочий стол\Звіт 5 семестр\Прог інж\Лаба 1\Приклад3\Фібоначчі\Фібоначчі\obj\Debug\Фібоначчі.csproj.CoreCompileInputs.cache
+C:\Users\Vladi\OneDrive\Рабочий стол\Звіт 5 семестр\Прог інж\Лаба 1\Приклад3\Фібоначчі\Фібоначчі\obj\Debug\Фібоначчі.exe
+C:\Users\Vladi\OneDrive\Рабочий стол\Звіт 5 семестр\Прог інж\Лаба 1\Приклад3\Фібоначчі\Фібоначчі\obj\Debug\Фібоначчі.pdb
